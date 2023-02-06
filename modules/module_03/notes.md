@@ -57,6 +57,8 @@ It's important to focus on _"Not Yet"_ instead of _"Now"_.
 > tomorrow to be better.'"_ ~ Angela Duckworth, author of _Grit: the Power of
 > Passion and Perseverance_
 
+- [Grit Test](https://angeladuckworth.com/grit-scale/)
+
 Grit, which is defined through the research of Dr. Angela Duckworth as passion
 plus perseverance, has been shown to be a predictive factor in achievement of
 difficult goals, including academic achievement.
