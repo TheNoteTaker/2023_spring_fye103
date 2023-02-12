@@ -1,6 +1,7 @@
 # Module 4 - Success Strategies
 
-[What's Metacognition and Why Does it Matter?](https://www.youtube.com/watch?v=QJWsIJQHUxM)
+- [What's Metacognition and Why Does it Matter?](https://www.youtube.com/watch?v=QJWsIJQHUxM)
+- [Self-Reflection for Metacognition](https://www.virtuallibrary.info/self-reflection-for-metacognition.html)
 
 # Module 4.1 Metacognition and Success Strategies
 
