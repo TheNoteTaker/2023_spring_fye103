@@ -183,7 +183,7 @@ arguments of others when evaluating their strength.
 ## Creative Thinking
 
 Creative thinking is the ability to look at things from a new perspective, to
-come up with fresh solutions to problems. 
+come up with fresh solutions to problems.
 
 - It is a deliberate process that allows you to think in ways that improve the
   likelihood of generating new ideas or thoughts.
@@ -204,8 +204,8 @@ Creative Thinking is part of the Critical Thinking process. Use it for:
 ### Tips for Creative Thinking
 
 - **Feed your curiosity**
-  - Creativity is often as much about rearranging known ideas as it is about
-    creating a completely new concept.
+    - Creativity is often as much about rearranging known ideas as it is about
+      creating a completely new concept.
 - **Develop your flexibility** by looking for a second right answer.
 - **Combine old ideas in new ways**
 - **Think metaphorically**
@@ -223,9 +223,204 @@ from a variety of “right” answers.
 * Consider the source
 * Seek out alternative views
 * Ask questions
-  * Who
-  * What
-  * When
-  * Where
-  * Why
-  * How
+    * Who
+    * What
+    * When
+    * Where
+    * Why
+    * How
+
+# Module 4.2 - Decision-Making
+
+## Reasoning and Decision-Making
+
+- Much of cognition-related research has focused on the broad areas of reasoning
+  and
+  [decision-making](https://www.psychologytoday.com/us/basics/decision-making)
+- Noted by psychologists Danieel Kahneman and Amos Tversky:
+    - Fast thinking is intuitive, automatic, and nearly impossible to switch
+      off.
+        - Relies on heuristic processes to come to a _good enough_ decision.
+    - Slow thinking takes a great deal of time and energy analyzing all
+      available
+      data before reaching a conclusion.
+    - He has a book: **Thinking, Fast and Slow (2011)**
+
+Culture also affects how one thinks:
+<https://www.psychologytoday.com/us/blog/non-weird-science/202105/do-we-wear-different-thinking-caps>
+
+- People in Western culture focus on the attributes of individual objects or
+  ideas and consider parts of a problem separately from the whole.
+- People in Eastern culture are more likely to focus on the broader context
+  and the relationships between objects or ideas.
+
+### List of Biases
+
+| Bias                                                                                                                                        | Short Description                                                                                  |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|
+| [The Dunning-Kruger Effect](https://www.psychologytoday.com/us/basics/dunning-kruger-effect)                                                | The less you know, thee more you think you know.                                                   |
+| [Confirmation Bias](https://www.psychologytoday.com/us/blog/science-choice/201504/what-is-confirmation-bias)                                | Following only the eevidence that confirms your own beliefs.                                       |
+| [Self-serving Bias](https://www.psychologytoday.com/us/blog/in-practice/201301/the-self-serving-bias-definition-research-and-antidotes)     | Blame your failures on someone else.                                                               |
+| [Overconfidence Bias](https://www.psychologytoday.com/us/blog/inside-the-box/201509/creativity-breeds-overconfidence)                       | Using only one source                                                                              |
+| [Groupthink](https://www.psychologytoday.com/us/basics/groupthink)                                                                          | Adopting the opinions of a group                                                                   |
+| [The Status Quo](https://www.psychologytoday.com/us/blog/persuasion-bias-and-choice/202006/status-quo-bias-why-things-feel-stuck-sometimes) | Resistance to change.                                                                              |
+| [Anchoring Bias](https://www.psychologytoday.com/us/blog/stretching-theory/201902/outsmart-the-anchoring-bias-in-three-simple-steps)        | Giving undue weight to the first piece of info<br/>received, even if it's incorrect or incomplete. |
+
+## Decision-Making
+
+- Decisions can be complicated by external and internal factors and are often
+  more difficult to make when the outcomes are relatively similar.
+
+[How to Make Better Decisions | 3 Quick Tips](https://www.youtube.com/watch?v=_0onFbc5FQM)
+
+### 5 Tips for Better Decision-Making
+
+1. Rest or sleep on it
+2. Take your time
+3. Gather the facts
+    - Four steps to effective
+      problem-solving ([College Success Chapter 3.4](https://open.lib.umn.edu/collegesuccess/chapter/3-4-problem-solving-and-decision-making/))
+        1. Define the problem
+        2. Narrow the problem
+        3. Generate solutions
+        4. Choose the solution
+4. Stay open to all possibilities
+5. Create rules
+
+# Module 4.3 - Goal Setting
+
+[Chapter 14: Time Management Theory](https://open.maricopa.edu/blueprint2/chapter/14-time-management-theory/)
+from _Blueprint for Success in College and Career_.
+
+- Scroll to "How to Start Reaching Your Goals"
+
+There are long-term and short-term goals:
+
+- **Long-term** goals usually take 3 - 5 years
+- **Short-term** goals usually take 1 - 2 years
+- **Mini** goals usually take 2 -3 months
+- **Micro** goals are daily goals
+
+## Purpose and Goal Setting
+
+> _"Obstacles are things a person sees when he takes his eyes off his goal.”_  
+> --E. Joseph Cossman
+
+- Choosing a meaningful purpose gives your life a direction and creates inner
+  motivation.
+
+Focus on creating **SMART** goals:
+
+- **S**pecific
+- **M**easurable
+- **A**ttainable
+- **R**ealistic
+- **T**imely
+
+[How to Set SMART Goals | Goal Setting for Students](https://www.youtube.com/watch?v=i0QfCZjASX8)
+
+Accountability is another important factor and is easier to determine with
+short-term goals asking:
+
+- _How many of the things that you set out to accomplish, did you accomplish?_
+- _How many were the most important things on that list? Were you satisfied?_
+- _Were you successful? Did you learn anything for future planning or time
+  management?_
+- _Would you do anything differently?_
+
+### Personal Goals
+
+Below is a set of questions that will help focus on personal goals:
+
+1. What are my top-priority goals?
+2. Which of my skills and interests make my goals realistic for me?
+3. What makes my goals believable and possible?
+4. Are my goals measurable? How long will it take me to reach them? How will I
+   know if I have achieved them?
+5. Are my goals flexible? What will I do if I experience a setback?
+6. Are my goal controllable? Can I achieve them on my own?
+7. Are my goals in sync with my values?
+
+# Module 4.4 - Time Management
+
+- [Chapter 14: Time Management
+  Theory](https://open.maricopa.edu/blueprint2/chapter/14-time-management-theory/)
+  from _Blueprint for Success in College and Career_
+- [Randy Pausch Lecture: Time Management](https://open.maricopa.edu/blueprint2/chapter/14-time-management-theory/)
+- A good rule of thumb for college classes is to study for 2-3 hours outside of
+  class per 1-hour spent in class.
+- [POMODORO TECHNIQUE](https://www.youtube.com/watch?v=mNBmG24djoY)
+- [How To Make An Effective Study Timetable | Study Effectively](https://www.youtube.com/watch?v=687p04jRDd4)
+
+> _"If you had a bank that credited your account each morning with $86,400, but 
+> carried no balance from day to day and allowed you to keep no cash in your 
+> account, and every evening cancelled whatever part of the amount you had 
+> failed to use during the day, what would you do? Draw out every cent, of 
+> course! Well, you have such a bank, and its name is time. Every morning it 
+> credits you with 86,400 seconds. Every night it writes off as lost whatever 
+> of these you have failed to invest to good purpose. It carries no balance; 
+> it allows no overdrafts. Each day it opens a new account with you. Each night 
+> it burns the record of the day. If you fail to use the day’s deposit, the 
+> loss is yours. There is no going back. There is no drawing against the morrow. 
+> You must live in the present – on today’s deposit. Invest it so as to get the 
+> utmost in health and happiness and success."_  
+> – Anonymous
+
+# Module 4.5 - Procrastination and Productivity
+
+- [Procrastination (Tales of Mere Existence)](https://www.youtube.com/watch?v=ItMFWpKofSg)
+- [Chapter 16: Time Management Reality](https://open.maricopa.edu/blueprint2/chapter/16-time-management-reality/) from _Blueprint for Success in College and Career_
+- [Tim Urban: Inside The Mind of a Master Procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Big Rocks First: Double Your Productivity This Week](https://zenhabits.net/big-rocks-first-double-your-productivity-this-week/)
+- [Big Rocks](https://www.youtube.com/watch?v=zV3gMTOEWt8)
+- Focus on doing more important tasks first
+
+Reasons we procrastinate:
+
+- I don't feel like it
+- Perfectionism
+- Fear of success
+- Fear of failure
+
+## The Time Management Matrix
+
+![](assets/quadrants.png)
+
+## The Big Rocks
+
+The idea is that things you need to get done are either big or little rocks.
+Fill your bucket (day) with big rocks first, leaving room for pebbles.
+
+- Also do it early.
+
+# Module 4 Summary
+
+**Success**: staying on course until you reach your desired outcomes and
+experiences (Downing, 2017, p. 29-30).
+
+Metacognition is simply thinking about your thinking. When learning, it is
+important to take many meta moments (plan, monitor, evaluate, and reflect) to
+aid in meaningful connections with your course content. Metacognition will
+heighten your self-awareness and allow you to correct thoughts and behaviors
+that hinder academic and personal success.
+
+How you make decisions are formed in metacognition, but we have to watch out for
+fallacies in reasoning that inhibit critical thinking.
+
+Don't forget to use the 5 tips for decision-making to help navigate the
+decision-making process and don't let the pebbles of life hinder the Big Rocks
+in your life. Being successful in college isn't all about having a high GPA or
+being perfect.
+
+As Mr. Hashim Pipkin mentioned, you want to be mindful of your GPA, but not
+stressed about your GPA. Successful students give their best efforts by
+attending class ready to learn and engage in class discussions and activities,
+ask for help, and manage their time while prioritizing their academic
+responsibilities.
+
+Planning out your week or month with a calendar, and reminders will help you
+stay on track. Set goals for yourself and build supportive family, peer,
+faculty, and staff networks to assist with accountability towards your goals.
+
+Lastly, Don't forget to celebrate your accomplishments and have some fun along
+your academic journey.
