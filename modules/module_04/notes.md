@@ -2,6 +2,7 @@
 
 - [What's Metacognition and Why Does it Matter?](https://www.youtube.com/watch?v=QJWsIJQHUxM)
 - [Self-Reflection for Metacognition](https://www.virtuallibrary.info/self-reflection-for-metacognition.html)
+- [Creating a Good Study Plan](https://www.youtube.com/watch?v=qRE0WicGz4I)
 
 # Module 4.1 Metacognition and Success Strategies
 
@@ -352,24 +353,25 @@ Below is a set of questions that will help focus on personal goals:
 - [POMODORO TECHNIQUE](https://www.youtube.com/watch?v=mNBmG24djoY)
 - [How To Make An Effective Study Timetable | Study Effectively](https://www.youtube.com/watch?v=687p04jRDd4)
 
-> _"If you had a bank that credited your account each morning with $86,400, but 
-> carried no balance from day to day and allowed you to keep no cash in your 
-> account, and every evening cancelled whatever part of the amount you had 
-> failed to use during the day, what would you do? Draw out every cent, of 
-> course! Well, you have such a bank, and its name is time. Every morning it 
-> credits you with 86,400 seconds. Every night it writes off as lost whatever 
-> of these you have failed to invest to good purpose. It carries no balance; 
-> it allows no overdrafts. Each day it opens a new account with you. Each night 
-> it burns the record of the day. If you fail to use the day’s deposit, the 
-> loss is yours. There is no going back. There is no drawing against the morrow. 
-> You must live in the present – on today’s deposit. Invest it so as to get the 
+> _"If you had a bank that credited your account each morning with $86,400, but
+> carried no balance from day to day and allowed you to keep no cash in your
+> account, and every evening cancelled whatever part of the amount you had
+> failed to use during the day, what would you do? Draw out every cent, of
+> course! Well, you have such a bank, and its name is time. Every morning it
+> credits you with 86,400 seconds. Every night it writes off as lost whatever
+> of these you have failed to invest to good purpose. It carries no balance;
+> it allows no overdrafts. Each day it opens a new account with you. Each night
+> it burns the record of the day. If you fail to use the day’s deposit, the
+> loss is yours. There is no going back. There is no drawing against the morrow.
+> You must live in the present – on today’s deposit. Invest it so as to get the
 > utmost in health and happiness and success."_  
 > – Anonymous
 
 # Module 4.5 - Procrastination and Productivity
 
 - [Procrastination (Tales of Mere Existence)](https://www.youtube.com/watch?v=ItMFWpKofSg)
-- [Chapter 16: Time Management Reality](https://open.maricopa.edu/blueprint2/chapter/16-time-management-reality/) from _Blueprint for Success in College and Career_
+- [Chapter 16: Time Management Reality](https://open.maricopa.edu/blueprint2/chapter/16-time-management-reality/)
+  from _Blueprint for Success in College and Career_
 - [Tim Urban: Inside The Mind of a Master Procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)
 - [Big Rocks First: Double Your Productivity This Week](https://zenhabits.net/big-rocks-first-double-your-productivity-this-week/)
 - [Big Rocks](https://www.youtube.com/watch?v=zV3gMTOEWt8)
@@ -381,6 +383,110 @@ Reasons we procrastinate:
 - Perfectionism
 - Fear of success
 - Fear of failure
+
+The top five fears that cause us to procrastinate:
+
+1. Fear of failure
+2. Fear of success
+3. Fear of control
+4. Fear of separation
+5. Fear of attachment
+
+Goal setting can help to create specific and concrete steps to follow and can
+be used to break down large or overwhelming tasks into smaller, more manageable
+parts.
+
+Use the following outline to tailor your goals to address procrastination and
+allow you to think about the other piece:
+
+1. Goal
+    1. Nonspecific
+    2. Specific
+2. Consequences (of continued procrastination)
+    1. External
+    2. Internal
+3. Style/ Behavior (What are you doing instead of achieving your goal?)
+4. Self-talk (What are you saying to yourself when you are procrastinating?)
+    1. Negative Messages
+    2. Counter with a positive message
+5. Inner message/fear (What fears can you identify? Use the list above)
+6. Plan of Action (what, when, and how will you take action?)
+
+#### Example Goal Plan
+
+1. **Goal**
+    1. **Nonspecific:** Improve dental hygiene.
+    2. **Specific:** Make an appointment by this Friday and go to the dentist to get
+       my teeth cleaned.
+2. **Consequences (of continued procrastination)**
+    1. **External**
+        1. I will have a cavity in every tooth.
+        2. The dentist will ask if I ever brush.
+        3. I will have gum disease.
+        4. They will have to drill into my teeth for waiting so long.
+        5. They will have to pull my teeth.
+    2. **Internal**
+        1. I won't feel good about myself.
+        2. I will feel guilty.
+        3. I will feel depressed if I have to wear dentures because I neglected
+           my teeth.
+3. **Style/ Behavior (What are you doing instead of achieving your goal?)**
+    1. I would make a dentist appointment three to four weeks in advance and put
+       it completely out of my mind. The day or so after my appointment I would
+       ironically remember and call to excuse my memory lapse and make another
+       appointment. To my surprise, time flies, and I am as busy as ever and I
+       forgot again! This vicious cycle continues and to make matters more
+       complicated, they have started charging me for appointments to which I
+       don't show up.
+4. **Self-talk (What are you saying to yourself when you are procrastinating?)**
+    1. **Negative Messages**
+        1. I might have lots of cavities.
+        2. I will be anxious and nervous.
+        3. I will waste valuable time.
+        4. It will hurt.
+        5. It will be embarrassing because of all the appointments I've missed.
+    2. **Counter with a positive message**
+        1. I will make an appointment anyway.
+        2. I can think of the positive consequences of going to the dentist.
+        3. I will tell myself this is something important to do and it's not a
+           waste of time.
+        4. I remind myself of the old proverb "no pain, no gain."
+        5. I can explain my fear to the dentist.
+5. **Inner message/fear (What fears can you identify? Use the list above**
+    1. The ordinary task of going to the dentist is not so easy and ordinary for
+       some people. For me, going to the dentist is one of my biggest fears for
+       various reasons. To begin with, I fear the loss of control. Sitting in
+       the dentist's chair with this stranger probing down my throat makes me
+       feel anxious. Not knowing what he is doing and not being able to control
+       where he is drilling or poking a needle contributes to my feelings of
+       losing control. The pain that will inevitably occur is fear itself. I do
+       anything to avoid pain, and avoiding the dentist will do just that. If I
+       did have a cavity, it would lower my self-esteem because I have vowed to
+       myself not to get any more cavities, therefore, I fear failure. Lastly, I
+       fear letting others down. I usually do not have any cavities and if I did
+       my mother would be disappointed in me. Fearing the loss of control, pain,
+       failure, and disappointment relates to my procrastinating to make a
+       dentist appointment because I fear my self-esteem will be damaged. By
+       protecting my self-esteem from going to the dentist, I have blinded
+       myself from seeing the consequences of not visiting the dentist. In
+       essence, I procrastinate in going to the dentist to protect my
+       self-esteem.
+6. **Plan of Action (what, when, and how will you take action?)**
+    1. I will identify and confront the fears stopping me from doing this simple
+       task.
+    2. I will realize I am in control, because I will ask the dentist exactly
+       what he is going to do and if he changes his plan of action to tell me.
+       Knowing exactly what he is doing will give me a feeling of control and I
+       will feel at ease.
+    3. If my dentist is going to do anything painful, I will ask him to warn me.
+       Not being surprised by the pain will make my visit more comfortable.
+    4. I will realize I have done all I can to protect myself against cavities
+       by brushing and flossing after meals. Realizing I have done everything
+       possible to prevent cavities will lessen my fear of failure.
+    5. If I do have a cavity, I will remember I have done everything possible to
+       prevent them. I will experience less pain in disappointing others.
+    6. After coming to terms with my fears, I made a dentist appointment on
+       October 27 and marked it on my calendar.
 
 ## The Time Management Matrix
 
