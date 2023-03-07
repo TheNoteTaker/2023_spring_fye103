@@ -8,6 +8,7 @@
 - <www.mynextmove.org>
 - <https://mcccd.pipelineaz.com/>
 - [MCCCD Pipeline AZ Assessment](https://mcccd.pipelineaz.com/assessment)
+- [How Do I stay on Track with my Studies?](https://www.youtube.com/watch?v=Y_m3SEEh1kc&list=PLVix8d69sPe4PZ5M0YCmgdqIcFmvGuMZ0)
 
 # Module 5.2 - Career Decision-Making
 
