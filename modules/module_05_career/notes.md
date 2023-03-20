@@ -1,5 +1,21 @@
 # Module 5 - Career
 
+<!-- TOC -->
+* [Module 5 - Career](#module-5---career)
+* [General Notes](#general-notes)
+* [Module 5.2 - Career Decision-Making](#module-52---career-decision-making)
+  * [Notes on Chapter 8](#notes-on-chapter-8)
+    * [Decision-Making Styles](#decision-making-styles)
+    * [Conditions For Change](#conditions-for-change)
+    * [A Decision-making Model](#a-decision-making-model)
+    * [Setting Goals and Objectives](#setting-goals-and-objectives)
+    * [Stress Management Techniques](#stress-management-techniques)
+    * [Websites To Help With College Choicee](#websites-to-help-with-college-choicee)
+* [Module 5.3 - Career Planning](#module-53---career-planning)
+* [Module 5.4 Career Assessment](#module-54-career-assessment)
+* [Module 5 Summary](#module-5-summary)
+<!-- TOC -->
+
 # General Notes
 
 - [Overview of Career Theory](assets/overview_of_career_theory.pdf)

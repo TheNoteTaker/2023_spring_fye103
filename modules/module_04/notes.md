@@ -1,5 +1,41 @@
 # Module 4 - Success Strategies
 
+<!-- TOC -->
+* [Module 4 - Success Strategies](#module-4---success-strategies)
+* [General Notes](#general-notes)
+* [Module 4.1 Metacognition and Success Strategies](#module-41-metacognition-and-success-strategies)
+  * [What is Metacognition?](#what-is-metacognition)
+    * [Metacognitive Strategies](#metacognitive-strategies)
+      * [Planning Strategies](#planning-strategies)
+      * [Monitoring Strategies](#monitoring-strategies)
+      * [Evaluation Strategies](#evaluation-strategies)
+    * [Metacognition and Self-Reflection](#metacognition-and-self-reflection)
+  * [Critical Thinking](#critical-thinking)
+    * [Critical Thinking Process](#critical-thinking-process)
+      * [Fallacies and How to Avoid Them](#fallacies-and-how-to-avoid-them)
+    * [Tips for Critical Thinking](#tips-for-critical-thinking)
+    * [Critical Thinking Over The Internet](#critical-thinking-over-the-internet)
+  * [Creative Thinking](#creative-thinking)
+    * [Tips for Creative Thinking](#tips-for-creative-thinking)
+    * [Summary](#summary)
+* [Module 4.2 - Decision-Making](#module-42---decision-making)
+  * [Reasoning and Decision-Making](#reasoning-and-decision-making)
+    * [List of Biases](#list-of-biases)
+  * [Decision-Making](#decision-making)
+    * [5 Tips for Better Decision-Making](#5-tips-for-better-decision-making)
+* [Module 4.3 - Goal Setting](#module-43---goal-setting)
+  * [Purpose and Goal Setting](#purpose-and-goal-setting)
+    * [Personal Goals](#personal-goals)
+* [Module 4.4 - Time Management](#module-44---time-management)
+* [Module 4.5 - Procrastination and Productivity](#module-45---procrastination-and-productivity)
+      * [Example Goal Plan](#example-goal-plan)
+  * [The Time Management Matrix](#the-time-management-matrix)
+  * [The Big Rocks](#the-big-rocks)
+* [Module 4 Summary](#module-4-summary)
+<!-- TOC -->
+
+# General Notes
+
 - [What's Metacognition and Why Does it Matter?](https://www.youtube.com/watch?v=QJWsIJQHUxM)
 - [Self-Reflection for Metacognition](https://www.virtuallibrary.info/self-reflection-for-metacognition.html)
 - [Creating a Good Study Plan](https://www.youtube.com/watch?v=qRE0WicGz4I)

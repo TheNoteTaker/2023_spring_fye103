@@ -1,5 +1,27 @@
 # Spring FYE103 - Module 2 Notes
 
+<!-- TOC -->
+* [Spring FYE103 - Module 2 Notes](#spring-fye103---module-2-notes)
+* [General Notes](#general-notes)
+* [Connection](#connection)
+  * [Making New Friends](#making-new-friends)
+* [Communication](#communication)
+  * [Listening Skills](#listening-skills)
+  * [Speaking Skills](#speaking-skills)
+  * [Balancing Schoolwork and Social Life](#balancing-schoolwork-and-social-life)
+  * [Conflict Resolution](#conflict-resolution)
+  * [Roommate Success](#roommate-success)
+  * [Key Takeaways](#key-takeaways)
+* [Communicating With Instructors](#communicating-with-instructors)
+  * [Guidelines For Communication](#guidelines-for-communication)
+  * [Tips For Success](#tips-for-success)
+  * [Success In Online Courses](#success-in-online-courses)
+  * [Key Takeaways](#key-takeaways-1)
+* [Active Listening](#active-listening)
+  * [Becoming An Active Listener](#becoming-an-active-listener)
+* [Summary](#summary)
+<!-- TOC -->
+
 # General Notes
 
 - [6.3 Communicating with Instructors](https://open.maricopa.edu/strategiesforfirstyearcollegesuccess/chapter/7-3-communicating-with-instructors/)

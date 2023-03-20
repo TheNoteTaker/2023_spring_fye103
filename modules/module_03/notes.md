@@ -1,5 +1,27 @@
 # Module 3 Notes - Habits of Mind
 
+<!-- TOC -->
+* [Module 3 Notes - Habits of Mind](#module-3-notes---habits-of-mind)
+* [General Notes](#general-notes)
+  * [Articles](#articles)
+* [Growth vs Fixed Mindset](#growth-vs-fixed-mindset)
+  * [YouTube Videos On The Subject](#youtube-videos-on-the-subject)
+* [Grit Mindset](#grit-mindset)
+* [Self Efficacy and Self-Advocacy](#self-efficacy-and-self-advocacy)
+  * [Locus of Control](#locus-of-control)
+    * [Key Points](#key-points)
+  * [Hope](#hope)
+  * [Optimism](#optimism)
+    * [Hope Theory](#hope-theory)
+* [Strengths](#strengths)
+  * [Sciencer of Character](#sciencer-of-character)
+* [Purpose & Meaning](#purpose--meaning)
+  * [YouTube Videos On Purpose](#youtube-videos-on-purpose)
+* [Resiliency](#resiliency)
+  * [Components of Resiliency](#components-of-resiliency)
+* [Summary](#summary)
+<!-- TOC -->
+
 # General Notes
 
 The habits of mind:
