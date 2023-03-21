@@ -1,38 +1,13 @@
 # First Year Experience: Spring 2023
 
-# General Notes
+# Modules
 
-
-
-## Civic Engagement
-
-Civic Engagement is more than voting. It is getting 
-involved in public policy, knowing what is happening in your 
-community, volunteerism and so much more!
-
-- Student Public Policy Forum _(SPPF)_
-- CGCC Student Government
-- CGCC Student Senator
-- Meeting with elected officials
-- Connection to government entities
-- Civic focused internship opportunities
-- Civic focused scholarship opportunities
-- Civic Events
-  - debates
-  - forums
-  - town halls
-- Voter registration and education
-- CGCC Polling location
-- Volunteer opportunities
-  - HELP Club
-- Civic Fellows Program
-
-## Service-Learning
-
-Service-Learning is a teaching strategy that combines academic instruction with 
-meaningful service to the community, allowing students to reach their 
-educational goals while making a contribution to their community and the world 
-at large.
+- **Module 0:** [Pre-Class](modules/module_00/notes.md)
+- **Module 1:** [FYE Intro and Resources](modules/module_01/notes.md)
+- **Module 2:** [Connection](modules/module_02/notes.md)
+- **Module 3:** [Habits of Mind](modules/module_03/notes.md)
+- **Module 4:** [Success Strategies](modules/module_04/notes.md)
+- **Module 5:** [Career](modules/module_05_career/notes.md)
 
 ## Systems 
 
@@ -50,4 +25,4 @@ at large.
 
 ## Contact
 
-**service.learning@cgc.edu**
+<service.learning@cgc.edu>
