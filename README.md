@@ -8,6 +8,7 @@
 - **Module 3:** [Habits of Mind](modules/module_03/notes.md)
 - **Module 4:** [Success Strategies](modules/module_04/notes.md)
 - **Module 5:** [Career](modules/module_05_career/notes.md)
+- **Module 6:** [Education Planning](modules/module_06_education_planning/notes.md)
 
 ## Systems 
 
