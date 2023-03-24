@@ -725,3 +725,5 @@ course of study demonstrating mastery of a specific field of study.
 
 - [Academic Advising FAQ](assets/academic_advising_faq.pdf)
 - [Advisor Ready Questionnaire](assets/advisor_ready_questionnaire.docx)
+- [Academic Planning Sheet](assets/academic_planning_sheet.pdf)
+- [Class Sequences by Degree Type](assets/class_sequences_by_degree_type.pdf)
