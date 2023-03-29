@@ -115,7 +115,7 @@
 
 ### Budgeting Sheet
 
-> **College Budgeting Sheet:** [PDF](assets/college_budgeting_sheet.xlsx)
+> **College Budgeting Sheet:** [Excel Sheet](assets/college_budgeting_sheet.xlsx)
 >
 > <a href="assets/college_budgeting_sheet.xlsx"><img alt="College Budgeting Sheet" height="500" src="assets/college_budgeting_sheet_preview.png" width="300"/></a>
 
