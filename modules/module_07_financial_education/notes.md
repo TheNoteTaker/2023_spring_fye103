@@ -1,107 +1,109 @@
 # Module 7 - Financial Education
 
 <!-- TOC -->
+
 * [Module 7 - Financial Education](#module-7---financial-education)
 * [General Notes](#general-notes)
-  * [Budgeting Resources](#budgeting-resources)
-    * [Articles](#articles)
-    * [Budgeting Sheet](#budgeting-sheet)
-    * [Video Resources](#video-resources)
-      * [Budgeting Basics!](#budgeting-basics-)
-  * [Scholarship Resources](#scholarship-resources)
-    * [Articles](#articles-1)
-      * [Scholarships and Tips For Applying](#scholarships-and-tips-for-applying)
-      * [Scholarship Websites](#scholarship-websites)
-    * [Video Resources](#video-resources-1)
-      * [Scholarship Tips](#scholarship-tips)
-      * [What is a Scholarship?](#what-is-a-scholarship)
+    * [Budgeting Resources](#budgeting-resources)
+        * [Articles](#articles)
+        * [Budgeting Sheet](#budgeting-sheet)
+        * [Video Resources](#video-resources)
+            * [Budgeting Basics!](#budgeting-basics-)
+    * [Scholarship Resources](#scholarship-resources)
+        * [Articles](#articles-1)
+            * [Scholarships and Tips For Applying](#scholarships-and-tips-for-applying)
+            * [Scholarship Websites](#scholarship-websites)
+        * [Video Resources](#video-resources-1)
+            * [Scholarship Tips](#scholarship-tips)
+            * [What is a Scholarship?](#what-is-a-scholarship)
 * [Module 7.1 - Financial Education Introduction](#module-71---financial-education-introduction)
 * [Module 7.2 - Paying for College](#module-72---paying-for-college)
-  * [Education Choices](#education-choices)
-    * [Sample College Costs](#sample-college-costs)
-  * [Keys to Success: Matching Student Debt to Post-graduation Income](#keys-to-success--matching-student-debt-to-post-graduation-income)
-    * [Smart Borrowing Principles](#smart-borrowing-principles)
-  * [Undergraduate Degree: 1 X Annual Salary](#undergraduate-degree--1-x-annual-salary)
-  * [Advanced Degrees: 1 - 2 Annual Salary](#advanced-degrees--1---2-annual-salary)
-  * [Types of Financial Aid: How to Pay for College](#types-of-financial-aid--how-to-pay-for-college)
-    * [Credit Cards vs Student Loans](#credit-cards-vs-student-loans)
-    * [Three Things To Stress](#three-things-to-stress)
-  * [Grants and Scholarships](#grants-and-scholarships)
-  * [Federal Grants](#federal-grants)
-  * [State Grants](#state-grants)
-  * [College/University Grants and Scholarships](#collegeuniversity-grants-and-scholarships)
-  * [Private Organization Grants and Scholarships](#private-organization-grants-and-scholarships)
-  * [Employer Grants and Scholarships](#employer-grants-and-scholarships)
-  * [Additional Federal Support](#additional-federal-support)
-    * [Education Tax Credits](#education-tax-credits)
-    * [Federal Work-Study Program](#federal-work-study-program)
-    * [Student Loans](#student-loans)
-      * [Direct Subsidized Loans](#direct-subsidized-loans)
-      * [Direct Unsubsidized Loans](#direct-unsubsidized-loans)
-    * [Other Loan Types](#other-loan-types)
-      * [Direct PLUS Loans](#direct-plus-loans)
-    * [Private loans](#private-loans)
-  * [Financial Aid and Loan Repayment Strategies](#financial-aid-and-loan-repayment-strategies)
-    * [Applying for Financial Aid, FAFSA, and Everything Else](#applying-for-financial-aid-fafsa-and-everything-else)
-    * [Maintaining Financial Aid](#maintaining-financial-aid)
-    * [What to Do with Extra Financial Aid Money](#what-to-do-with-extra-financial-aid-money)
-    * [Your Rights as a Loan Recipient](#your-rights-as-a-loan-recipient)
-    * [Repayment Strategies](#repayment-strategies)
-    * [Payment Plans](#payment-plans)
-    * [Loan Forgiveness Programs](#loan-forgiveness-programs)
-    * [Consider Professional Advice](#consider-professional-advice)
-      * [Importance of Professional Advice](#importance-of-professional-advice)
-  * [Student Loans 101 - Video](#student-loans-101---video)
+    * [Education Choices](#education-choices)
+        * [Sample College Costs](#sample-college-costs)
+    * [Keys to Success: Matching Student Debt to Post-graduation Income](#keys-to-success--matching-student-debt-to-post-graduation-income)
+        * [Smart Borrowing Principles](#smart-borrowing-principles)
+    * [Undergraduate Degree: 1 X Annual Salary](#undergraduate-degree--1-x-annual-salary)
+    * [Advanced Degrees: 1 - 2 Annual Salary](#advanced-degrees--1---2-annual-salary)
+    * [Types of Financial Aid: How to Pay for College](#types-of-financial-aid--how-to-pay-for-college)
+        * [Credit Cards vs Student Loans](#credit-cards-vs-student-loans)
+        * [Three Things To Stress](#three-things-to-stress)
+    * [Grants and Scholarships](#grants-and-scholarships)
+    * [Federal Grants](#federal-grants)
+    * [State Grants](#state-grants)
+    * [College/University Grants and Scholarships](#collegeuniversity-grants-and-scholarships)
+    * [Private Organization Grants and Scholarships](#private-organization-grants-and-scholarships)
+    * [Employer Grants and Scholarships](#employer-grants-and-scholarships)
+    * [Additional Federal Support](#additional-federal-support)
+        * [Education Tax Credits](#education-tax-credits)
+        * [Federal Work-Study Program](#federal-work-study-program)
+        * [Student Loans](#student-loans)
+            * [Direct Subsidized Loans](#direct-subsidized-loans)
+            * [Direct Unsubsidized Loans](#direct-unsubsidized-loans)
+        * [Other Loan Types](#other-loan-types)
+            * [Direct PLUS Loans](#direct-plus-loans)
+        * [Private loans](#private-loans)
+    * [Financial Aid and Loan Repayment Strategies](#financial-aid-and-loan-repayment-strategies)
+        * [Applying for Financial Aid, FAFSA, and Everything Else](#applying-for-financial-aid-fafsa-and-everything-else)
+        * [Maintaining Financial Aid](#maintaining-financial-aid)
+        * [What to Do with Extra Financial Aid Money](#what-to-do-with-extra-financial-aid-money)
+        * [Your Rights as a Loan Recipient](#your-rights-as-a-loan-recipient)
+        * [Repayment Strategies](#repayment-strategies)
+        * [Payment Plans](#payment-plans)
+        * [Loan Forgiveness Programs](#loan-forgiveness-programs)
+        * [Consider Professional Advice](#consider-professional-advice)
+            * [Importance of Professional Advice](#importance-of-professional-advice)
+    * [Student Loans 101 - Video](#student-loans-101---video)
 * [Module 7.3 - Personal Financial Planning](#module-73---personal-financial-planning)
-  * [Personal Financial Planning](#personal-financial-planning)
-    * [Importance of Money Management](#importance-of-money-management)
-    * [Tips for Effective Money Management](#tips-for-effective-money-management)
-    * [Additional Information](#additional-information)
-    * [Conclusion](#conclusion)
-    * [Top Student Concerns](#top-student-concerns)
-      * [What is your top immediate financial priority?](#what-is-your-top-immediate-financial-priority)
-      * [Which aspect of your finances concerns you the most?](#which-aspect-of-your-finances-concerns-you-the-most)
-      * [When considering how to pay for college, which of the following do you know least about?](#when-considering-how-to-pay-for-college-which-of-the-following-do-you-know-least-about)
-  * [Financial Planning in Five Steps](#financial-planning-in-five-steps)
-  * [How To Use Financial Planning in Everyday Life](#how-to-use-financial-planning-in-everyday-life)
-    * [1. Develop Goals](#1-develop-goals)
-    * [2. Identify and Evaluate Alternatives for Achieving Goals in Your Current Situation](#2-identify-and-evaluate-alternatives-for-achieving-goals-in-your-current-situation)
-    * [3. Write Down Your Financial Plan](#3-write-down-your-financial-plan)
-      * [Example Financial Plans](#example-financial-plans)
-    * [4. Implement Your Plan](#4-implement-your-plan)
-    * [5. Monitor and Adjust the Plan to Changing Circumstances and New Life Goals](#5-monitor-and-adjust-the-plan-to-changing-circumstances-and-new-life-goals)
-  * [Use the Financial Planning Process for Everything](#use-the-financial-planning-process-for-everything)
-  * [Why You Need An Emergency Fund - Video](#why-you-need-an-emergency-fund---video)
+    * [Personal Financial Planning](#personal-financial-planning)
+        * [Importance of Money Management](#importance-of-money-management)
+        * [Tips for Effective Money Management](#tips-for-effective-money-management)
+        * [Additional Information](#additional-information)
+        * [Conclusion](#conclusion)
+        * [Top Student Concerns](#top-student-concerns)
+            * [What is your top immediate financial priority?](#what-is-your-top-immediate-financial-priority)
+            * [Which aspect of your finances concerns you the most?](#which-aspect-of-your-finances-concerns-you-the-most)
+            * [When considering how to pay for college, which of the following do you know least about?](#when-considering-how-to-pay-for-college-which-of-the-following-do-you-know-least-about)
+    * [Financial Planning in Five Steps](#financial-planning-in-five-steps)
+    * [How To Use Financial Planning in Everyday Life](#how-to-use-financial-planning-in-everyday-life)
+        * [1. Develop Goals](#1-develop-goals)
+        * [2. Identify and Evaluate Alternatives for Achieving Goals in Your Current Situation](#2-identify-and-evaluate-alternatives-for-achieving-goals-in-your-current-situation)
+        * [3. Write Down Your Financial Plan](#3-write-down-your-financial-plan)
+            * [Example Financial Plans](#example-financial-plans)
+        * [4. Implement Your Plan](#4-implement-your-plan)
+        * [5. Monitor and Adjust the Plan to Changing Circumstances and New Life Goals](#5-monitor-and-adjust-the-plan-to-changing-circumstances-and-new-life-goals)
+    * [Use the Financial Planning Process for Everything](#use-the-financial-planning-process-for-everything)
+    * [Why You Need An Emergency Fund - Video](#why-you-need-an-emergency-fund---video)
 * [Module 7.4 - Savings, Expenses, and Budgeting](#module-74---savings-expenses-and-budgeting)
-  * [Importance of Budgeting](#importance-of-budgeting)
-  * [Elements of a Budget](#elements-of-a-budget)
-  * [Income](#income)
-  * [Saving and Investing](#saving-and-investing)
-  * [Expenses](#expenses)
-  * [Balancing Your Budget](#balancing-your-budget)
-  * [Tracking the Big Picture](#tracking-the-big-picture)
-  * [Good Practices vs. Bad Practices](#good-practices-vs-bad-practices)
-  * [Get Connected](#get-connected)
-  * [Good Spending vs Bad Spending - Video](#good-spending-vs-bad-spending---video)
+    * [Importance of Budgeting](#importance-of-budgeting)
+    * [Elements of a Budget](#elements-of-a-budget)
+    * [Income](#income)
+    * [Saving and Investing](#saving-and-investing)
+    * [Expenses](#expenses)
+    * [Balancing Your Budget](#balancing-your-budget)
+    * [Tracking the Big Picture](#tracking-the-big-picture)
+    * [Good Practices vs. Bad Practices](#good-practices-vs-bad-practices)
+    * [Get Connected](#get-connected)
+    * [Good Spending vs Bad Spending - Video](#good-spending-vs-bad-spending---video)
 * [Module 7.5 - Debt and Credit Cards](#module-75---debt-and-credit-cards)
-  * [The Danger of Debt](#the-danger-of-debt)
-  * [Compounding Interest](#compounding-interest)
-  * [Sacrificing Your Future Fun](#sacrificing-your-future-fun)
-  * [How Much Good Debt to Take On](#how-much-good-debt-to-take-on)
-  * [Signs You Have Too Much Debt](#signs-you-have-too-much-debt)
-  * [Difference between Debit and Credit Cards](#difference-between-debit-and-credit-cards)
-  * [Benefits of a Credit Card](#benefits-of-a-credit-card)
-    * [Secure and Convenient Method of Making Purchases](#secure-and-convenient-method-of-making-purchases)
-    * [Greater Consumer Protections](#greater-consumer-protections)
-    * [Builds Credit Score](#builds-credit-score)
-  * [What Is a Good Credit Score?](#what-is-a-good-credit-score)
-    * [Description of Credit Scores](#description-of-credit-scores)
-  * [Components of a Credit Score and How to Improve Your Credit](#components-of-a-credit-score-and-how-to-improve-your-credit)
-  * [How to Use a Credit Card](#how-to-use-a-credit-card)
-  * [What to Look for in Your First Credit Card](#what-to-look-for-in-your-first-credit-card)
+    * [The Danger of Debt](#the-danger-of-debt)
+    * [Compounding Interest](#compounding-interest)
+    * [Sacrificing Your Future Fun](#sacrificing-your-future-fun)
+    * [How Much Good Debt to Take On](#how-much-good-debt-to-take-on)
+    * [Signs You Have Too Much Debt](#signs-you-have-too-much-debt)
+    * [Difference between Debit and Credit Cards](#difference-between-debit-and-credit-cards)
+    * [Benefits of a Credit Card](#benefits-of-a-credit-card)
+        * [Secure and Convenient Method of Making Purchases](#secure-and-convenient-method-of-making-purchases)
+        * [Greater Consumer Protections](#greater-consumer-protections)
+        * [Builds Credit Score](#builds-credit-score)
+    * [What Is a Good Credit Score?](#what-is-a-good-credit-score)
+        * [Description of Credit Scores](#description-of-credit-scores)
+    * [Components of a Credit Score and How to Improve Your Credit](#components-of-a-credit-score-and-how-to-improve-your-credit)
+    * [How to Use a Credit Card](#how-to-use-a-credit-card)
+    * [What to Look for in Your First Credit Card](#what-to-look-for-in-your-first-credit-card)
 * [Module 7 - Summary](#module-7---summary)
-  * [Overview](#overview)
-  * [Main Description](#main-description)
+    * [Overview](#overview)
+    * [Main Description](#main-description)
+
 <!-- TOC -->
 
 # General Notes
@@ -115,7 +117,8 @@
 
 ### Budgeting Sheet
 
-> **College Budgeting Sheet:** [Excel Sheet](assets/college_budgeting_sheet.xlsx)
+> **College Budgeting Sheet:
+** [Excel Sheet](assets/college_budgeting_sheet.xlsx)
 >
 > <a href="assets/college_budgeting_sheet.xlsx"><img alt="College Budgeting Sheet" height="500" src="assets/college_budgeting_sheet_preview.png" width="300"/></a>
 
@@ -1081,3 +1084,151 @@ down barriers to make people more comfortable with money.
     - It dispels money myths and breaks down barriers to financial education.
     - The module encourages people to continue their financial education.
 
+# After-Module Material
+
+## Financial Wellness and Financial Education
+
+[![](assets/financial_wellness_video.png)](https://drive.google.com/file/d/1g7amDj7UDYQEYAEjHqQy4326gVJWYUU2/view)
+
+### Why Financial Education Matters
+
+- _Analogy:_ You would not let someone drive without being educated about the
+  road. It's the same with money.
+- Most people have to make financial decisions that will have lasting impacts
+  with no financial education.
+- In the book _The Millionaire Next Door_, the research concluded that:
+    - Many wealthy people don't live in fancy homes/neighborhoods.
+    - Many living with the appearance of luxury aren't doing well financially.
+    - Living below your income and managing your money is more important than
+      how much you make.
+
+### The 3 factors of Financial Well-being
+
+![](assets/financial_wellbeing_chart.png)
+
+### What It Means to Manage Our Money
+
+At its most basic level, <u>managing money is about making sure that there
+isn't more money going out than coming in.</u>
+
+- To move beyond living paycheck to paycheck, include having an emergency fund,
+  and a plan for the future and your goals.
+
+### How Do You Tend to Handle Money?
+
+There are several types of people:
+
+- **Saver**
+    - Saves everything and feels uncomfortable spending
+- **Spender**
+    - Spends every dollar
+- **Avoider**
+    - Avoids talking about money as it makes them uncomfortable, and puts off
+      important actions and conversations that they need to take.
+
+### The Need to Change Our Normal
+
+- Pay yourself first and watch your money grow.
+    - Paying yourself is putting money in savings.
+    - When you get a raise, save half of the raise.
+- Understand which type of person you are.
+- In the book _How To Have What You Want, With The Money You Already Have_, it
+  talks about:
+    - We tend to feel like we cannot have what we want, so we spend money on
+      little things to console ourselves.
+    - Instead, we should set goals for the things we want and redirect money to
+      those goals as _money games_ to have more of what we want.
+
+### Why It Takes More Than Willpower To Change Our Behavior
+
+> "Winning at money is 80 percent behavior and 20 percent head knowledge."
+> -Dave Ramsey
+
+- Our money behaviors come from modeling what we see around us:
+    - Family
+    - Culture
+    - Society
+    - Social influence
+
+There are six sources of influence and they are the reasons that willpower
+alone is not enough. You have to learn to leverage them:
+
+- **Personal Motivation**
+    - What will things be like if this doesn’t change?
+- **Personal Ability**
+    - What skills or information can help you?
+- **Social Motivation**
+    - Who's pulling you away from your goals?*
+- **Social Ability**
+    - Who is or could be cheering you on?
+- **Environmental Motivation**
+    - How can you gamify or make it visually repetitive?
+- **Environmental Ability**
+    - How can you change the environment to make the desired behavior easier?
+
+### Creating a New Normal
+
+Often times, when people get a raise they experience **lifestyle inflation**,
+where they buy new everything.
+
+<u>The current normal is:</u>
+
+- Living paycheck to paycheck
+- Consumer lifestyle
+- Not managing money
+- No emergency fund
+
+<u>To create a new normal:</u>
+
+- Lasting change often requires taking different actions that may feel
+  uncomfortable.
+- It may mean reevaluating:
+    - What you see as normal
+    - Who you want to fit in with
+
+### Financial Well-being Summary
+
+- Financial education matters and can help us increase our financial well-being
+- Financial well-being is impacted by foundational factors, knowledge and access
+  and our actions and outcomes
+- Social Influence can lead us to spending
+- Need to create a New Normal
+- Willpower alone is not enough, get the sources of influence with you
+- Symbols of wealth often = debt
+- To build wealth: manage your money, avoid wealth symbols
+
+## Understanding Your Credit Report
+
+[![](assets/credit_report_video.png)](https://vimeo.com/221779920)
+
+### The Three Main Credit Bureaus
+
+1. Equifax
+2. Experian
+3. TransUnion
+
+### What's Included
+
+1. Personal info
+2. Public records
+   - Bankruptcies
+3. Collections for late/no payments
+4. Trade lines
+   - Information about various credit accounts, such as:
+     - Credit cards
+     - Car loans
+     - Mortgages
+     - Retail accounts
+     - Student accounts
+     - _Often reported monthly_
+5. Inquiries from whenever someone accesses your credit file
+   - Promotional inquiries
+   - Consumer Disclosure inquiries
+   - Credit Application inquiries
+   - _The FICO score only considers inquiries resulting from a credit 
+     application._
+
+### FICO
+
+FICO is a company founded on scoring credits and works closely with bureaus
+to create scores based on their data.
