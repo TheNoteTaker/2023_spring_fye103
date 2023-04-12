@@ -10,6 +10,7 @@
 - **Module 5:** [Career](modules/module_05_career/notes.md)
 - **Module 6:** [Education Planning](modules/module_06_education_planning/notes.md)
 - **Module 7:** [Financial Education](modules/module_07_financial_education/notes.md)
+- **Module 8:** [Diverse World](modules/module_08_diverse_world/notes.md)
 
 ## Systems 
 
