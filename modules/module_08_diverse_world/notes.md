@@ -251,7 +251,7 @@ and proposes the intersecting dimensions of identity.
 - Individual societal factors, experiences, and backgrounds can have limits, but
   that doesn't mean you have to be limited.
 
-### Opportunities for College Students
+## Opportunities for College Students
 
 - Work-based experiences:
     - **Internships**
@@ -270,7 +270,7 @@ and proposes the intersecting dimensions of identity.
 - Completing one or all of these activities exposes students to multiple careers
   and begins to build their social network.
 
-### Networking
+## Networking
 
 - According to Bucher (2015) in his textbook, _Diversity Consciousness_,
   networking accounts for half of people finding
@@ -297,7 +297,7 @@ and proposes the intersecting dimensions of identity.
 - We create cognitive anchors and do not adjust as much as we need to. We use
   that starting point and only deviate a small amount from it.
 
-### Conclusion
+## Conclusion
 
 - Diversity involves recognizing and respecting the ideas, feelings, behaviors,
   and experiences of people different from oneself.
