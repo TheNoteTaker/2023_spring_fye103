@@ -89,6 +89,7 @@
   * [Conclusion](#conclusion-8)
 * [Module 9 Summary](#module-9-summary)
 * [Blue Zones Live Longer, Better - Life Expectancy Calculator](#blue-zones-live-longer-better---life-expectancy-calculator)
+  * [TED Talk on the Five Blue Zones](#ted-talk-on-the-five-blue-zones)
   * [Overview:](#overview-)
   * [Main Description:](#main-description-)
   * [Conclusion:](#conclusion-)
@@ -1007,6 +1008,10 @@ purposeful self-care. Investing in your well-being in this way can help you
 succeed in your academic journey and beyond.
 
 # Blue Zones Live Longer, Better - Life Expectancy Calculator
+
+## TED Talk on the Five Blue Zones
+
+**How To Live To Be 100+ Years Old:** <https://www.ted.com/talks/dan_buettner_how_to_live_to_be_100?language=en>
 
 ## Overview:
 The "Live Longer, Better" life expectancy calculator is a 3-minute test that provides personalized recommendations for individuals to increase their healthy lifespan. The test is conducted in collaboration with the University of Minnesota School of Public Health and the results are kept private.
