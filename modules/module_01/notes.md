@@ -1,14 +1,14 @@
 # First Year Experience: Module 1
 
 <!-- TOC -->
-* [First Year Experience: Module 1](#first-year-experience--module-1)
+* [First Year Experience: Module 1](#first-year-experience-module-1)
 * [General Notes](#general-notes)
 * [Starting College Support](#starting-college-support)
   * [Financial Aid](#financial-aid)
   * [Library](#library)
   * [Technology](#technology)
 * [Specific Needs Resources](#specific-needs-resources)
-  * [Disability Resources and Services (DRS)](#disability-resources-and-services--drs-)
+  * [Disability Resources and Services (DRS)](#disability-resources-and-services-drs)
   * [Tutoring and Learning Support](#tutoring-and-learning-support)
     * [Tutoring Video 1](#tutoring-video-1)
     * [Tutoring Video 2](#tutoring-video-2)
