@@ -61,8 +61,8 @@
 ## Financial Aid
 
 - [MCCCD Financial Literacy and Wellness site](https://www.maricopa.edu/future-students/financial-aid/financial-literacy-wellness)
-- [MCCCD Foundation Scholarships siteLinks to an external site](https://mcccd.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=1395)
-- [CGC Scholarship site Links to an external site](https://www.cgc.edu/admissions/financial-aid/scholarships/cgcc-scholarship-applications)
+- [MCCCD Foundation Scholarships site](https://mcccd.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=1395)
+- [CGC Scholarship site](https://www.cgc.edu/admissions/financial-aid/scholarships/cgcc-scholarship-applications)
 - [MCCCD Financial Aid site](https://www.maricopa.edu/future-students/financial-aid)
 
 ## Library
