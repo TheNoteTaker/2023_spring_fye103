@@ -351,8 +351,8 @@ Focus on creating **SMART** goals:
 - **S**pecific
 - **M**easurable
 - **A**ttainable
-- **R**ealistic
-- **T**imely
+- **R**elevant
+- **T**ime-bound
 
 [How to Set SMART Goals | Goal Setting for Students](https://www.youtube.com/watch?v=i0QfCZjASX8)
 
